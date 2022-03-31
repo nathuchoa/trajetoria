@@ -1,0 +1,49 @@
+body {
+  background-image: linear-gradient(to bottom,
+      rgba(223, 219, 219, 0.9),
+      rgba(255, 255, 255, 0.9)),
+    url(https://static.vecteezy.com/ti/vetor-gratis/p2/2293859-abstract-background-with-a-network-connections-background-design-gr%C3%A1tis-vetor.jpg);
+  ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.titulo {
+  color: rgb(6, 43, 73);
+  font-family: "Montserrat";
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.lista {
+  color: rgb(46, 46, 46);
+}
+
+p {
+  font-size: 16px;
+}
+
+.subtitulo {
+  font-style: italic;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times;
+}
+
+div {
+  border-left: 10px solid;
+  border-color: rgb(6, 43, 73);
+  padding: 1px 20px;
+  margin-top: 20px;
+  background-color: rgb(255, 255, 255,0.8);
+}
+
+img{
+  align-self: center;
+}
+.rodape{
+  font-size: small;
+  text-align: center;
+}
